@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="38px" height="28px" viewBox="0 0 38 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Desktop HD</title>
-    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#FFFFFF" x="4" y="5" width="30" height="4" rx="2"></rect>
-        <rect id="Rectangle-Copy" fill="#FFFFFF" x="4" y="12" width="30" height="4" rx="2"></rect>
-        <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="4" y="19" width="30" height="4" rx="2"></rect>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="28" version="1.1" viewBox="0 0 38 28"><title>Desktop HD</title><g id="Desktop-HD" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="30" height="4" x="4" y="5" fill="#FFF" rx="2"/><rect id="Rectangle-Copy" width="30" height="4" x="4" y="12" fill="#FFF" rx="2"/><rect id="Rectangle-Copy-2" width="30" height="4" x="4" y="19" fill="#FFF" rx="2"/></g></svg>
